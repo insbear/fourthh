@@ -1,0 +1,16 @@
+body {
+    background: #2222bd;
+    color: white;
+    font-family: 'Arial';
+    font-size: 60px;
+    font-weight: bold;
+}
+#superwazny {
+    color: aliceblue;
+}
+.wazny {
+    color: Black;
+}
+p {
+    color: yellow;
+}
