@@ -1,1 +1,77 @@
 @import url(restet.css);
+
+html {
+
+    font-family: 'Playfair Display SC', serif;
+    font-size: 62.5%;
+    color: #48504e;
+}
+body {
+    background-color: #E30616;
+}
+.blue {
+    color: #006BA4;
+}
+.blacgreen {
+    color: #4A4908;
+}
+.grey {
+    color: #48504e;
+}
+h1 {
+    background-color: yellow;
+    font-size: 3.7rem;
+    padding: 4rem;
+    margin: 4.5rem;
+    display: inline-block;
+}
+h2, h3 {
+
+    background-color: #48504e;
+    paddind: 4rem;
+    display: inline-block;
+}
+h3 {
+    font-size: 2.7rem; color: fff;
+}
+h2 {
+    font-size: 3.1rem; color: fff;
+}
+p {
+    font-size: 1.8rem; line-height: 1.6;
+}
+ul {
+    font-size: 1.8rem; line-height: 1.9;
+}
+footer p {
+    font-size: 1.4rem; color: #d4d4d3;
+}
+
+.sumary {
+    font-size: 2.4rem;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    background-color: rgba(255, 255, 255, 1);
+}
+.dot {
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    margin: 2rem auto;
+    border-radius: 2rem;
+}
+.deleted {
+    text-decoration: line-through;
+}
+.button-more {
+    display: inline-block;
+    border: 1px dashed #48504e;
+    font-size: 4rem;
+    padding: 2rem;
+    width: 4rem;
+    height: 4rem;
+    text-decoration: none;
+}
